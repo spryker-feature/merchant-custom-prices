@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/merchant-custom-prices",
+  "description": "Merchant Custom Prices [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/merchant": "~2018.11.0",
+    "spryker/price-product-merchant-relationship": "^1.4.0",
+    "spryker/price-product-merchant-relationship-data-import": "^0.2.0",
+    "spryker/price-product-merchant-relationship-storage": "^1.1.0"
+  }
+}
