@@ -1,23 +1,23 @@
 {
-  "name": "spryker-feature/merchant-custom-prices",
-  "description": "Merchant Custom Prices [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/price-product-merchant-relationship": "^1.6.0",
-    "spryker/price-product-merchant-relationship-data-import": "^0.2.0",
-    "spryker/price-product-merchant-relationship-gui": "^1.0.1",
-    "spryker/price-product-merchant-relationship-storage": "^1.11.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/merchant-custom-prices",
+    "description": "Merchant Custom Prices [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/price-product-merchant-relationship": "^1.6.0",
+        "spryker/price-product-merchant-relationship-data-import": "^0.2.0",
+        "spryker/price-product-merchant-relationship-gui": "^1.0.1",
+        "spryker/price-product-merchant-relationship-storage": "^1.12.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/merchant": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/merchant": "Recommended feature dependency."
-  }
 }
