@@ -12,3 +12,6 @@ composer require spryker-feature/merchant-custom-prices
 - [spryker-feature/merchant](https://github.com/spryker-feature/merchant)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [PriceProductMerchantRelationshipStorageExtension ^1.0.0](https://github.com/spryker/price-product-merchant-relationship-storage-extension) (Extension)
