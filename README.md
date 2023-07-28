@@ -2,6 +2,8 @@
 
 With the Merchant Custom Prices, a merchant can define custom prices for B2B customers
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/price-management/202307.0/base-shop/merchant-custom-prices-feature-overview.html)
+
 ## Installation
 
 ```
