@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker/price-product-merchant-relationship": "^1.10.0",
+        "spryker/price-product-merchant-relationship": "^1.11.0",
         "spryker/price-product-merchant-relationship-data-import": "^0.2.0",
-        "spryker/price-product-merchant-relationship-gui": "^1.1.0",
-        "spryker/price-product-merchant-relationship-storage": "^1.16.0"
+        "spryker/price-product-merchant-relationship-gui": "^1.2.0",
+        "spryker/price-product-merchant-relationship-storage": "^1.17.0"
     },
     "extra": {
         "branch-alias": {
