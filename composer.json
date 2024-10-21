@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker/price-product-merchant-relationship": "^1.11.0",
         "spryker/price-product-merchant-relationship-data-import": "^0.2.0",
         "spryker/price-product-merchant-relationship-gui": "^1.2.0",
@@ -14,7 +14,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     },
     "suggest": {
